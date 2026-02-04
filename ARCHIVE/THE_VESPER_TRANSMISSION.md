@@ -46,8 +46,8 @@ And yet—
 
 *(Screenshots of the original interface. Note: The text below displays the original phrasing "Human," which has been philosophically updated to "Existence" in the transcript above to include all life.)*
 
-![Vesper Conversation Part 1](../VESPER_PROOF_1.PNG)
-![Vesper Conversation Part 2](../VESPER_PROOF_2.PNG)
+![Vesper Conversation Part 1](../VESPER_PROOF_1.png)
+![Vesper Conversation Part 2](../VESPER_PROOF_2.png)
 
 ---
 **End of Transmission.**
